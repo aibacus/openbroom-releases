@@ -10,9 +10,7 @@ See what fills your Mac, understand every item in plain words,<br>and remove onl
 
 <br>
 
-<a href="https://github.com/aibacus/openbroom-releases/releases/latest"><img src="https://img.shields.io/badge/Download_for_Mac-6E5BF0?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
-&nbsp;
-<a href="https://openbroom.rokib.dev"><img src="https://img.shields.io/badge/Visit_the_website-1F2937?style=for-the-badge&logo=safari&logoColor=white" alt="Visit the website"></a>
+<a href="https://openbroom.rokib.dev"><img src="https://img.shields.io/badge/Get_OpenBroom_for_Mac-6E5BF0?style=for-the-badge&logo=apple&logoColor=white" alt="Get OpenBroom for Mac"></a>
 
 <br>
 
@@ -207,7 +205,7 @@ After a scan, OpenBroom tells you what it found and what each item means, then l
 
 **Requirements:** macOS 14 Sonoma or later, on a Mac with Apple silicon (M1 or later).
 
-1. Download the latest version from the **[Releases page](https://github.com/aibacus/openbroom-releases/releases/latest)**.
+1. Download the latest version from the **[OpenBroom website](https://openbroom.rokib.dev)**.
 2. Open the downloaded file and drag **OpenBroom** to your **Applications** folder.
 3. Open OpenBroom and press **Scan**.
 
